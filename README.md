@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Antony Mwangi's Portfolio
+# Antony Mwangi's Portfolio
 
 **Software Engineer | Data & AI Analyst | Ethical Hacker**
 
