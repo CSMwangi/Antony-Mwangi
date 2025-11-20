@@ -43,7 +43,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 ## What I Do
 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Antony-Mwangi&theme=vue-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Antony-Mwangi&theme=vue-dark)
 </div>
 
 | Area | Focus |
