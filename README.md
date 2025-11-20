@@ -1,12 +1,12 @@
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Antony+MWangi's+Portfolio&fontSize=50&animation=fadeIn)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=60&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Antony+Mwangi;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hello+there!+I'm+Antony+Mwangi;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker" alt="Animated typing introduction" />
 </p>
 
-**Building secure and reliable data-driven systems**
+**Welcome to my GitHub profile! Great to have you here.**
 
 </div>
 
