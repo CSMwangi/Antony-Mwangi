@@ -1,12 +1,11 @@
 # Hi, I'm Antony Mwangi
 
-**Software Engineer | Data & AI Analyst – Building Intelligent, Data-Driven Solutions for Africa's Digital Economy**
+Building Intelligent, Data-Driven Solutions for Africa's Digital Economy**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00FF00&size=20&center=true&vCenter=true&width=500&height=70&lines=Data+Analyst;AI+Enthusiast;Software+Engineer;Cyber+Shujaa+Alumni;Full+Stack+Developer;Freelance+IT+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00FF00&size=20&center=true&vCenter=true&width=500&height=70&lines=Data+Analyst;AI+Enthusiast;Software+Engineer;Ethical+ Hacker;Full+Stack+Developer;Freelance+IT+Expert" alt="Typing SVG" />
 </p>
 
----
 
 **Antony Mwangi**  
 **Software Engineer | Data & AI Analyst**  
@@ -15,14 +14,11 @@
 
 Data Analyst | AI Applications | Cybersecurity | Full-Stack Development  
 
----
 
 > "I believe in leveraging data and technology to drive informed decisions and create scalable solutions that address real-world challenges."
 
-- **💻 Software Engineer | 📊 Data & AI Analyst | 🔐 Cyber Shujaa Alumni | 🎓 Computer Science Graduate**
-- **🌍 Based in Kenya | 💼 Freelance Data Analyst since 2023**
+- **💻 Software Engineer | Data & AI Analyst | Ethical Hacker 
 
----
 
 ## 🚀 About Me
 
