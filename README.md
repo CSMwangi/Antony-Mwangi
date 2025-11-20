@@ -3,7 +3,9 @@
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Antony+Mwangi;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker" alt="Animated typing introduction" />
+  <strong style="font-size: 28px; font-family: 'Fira Code', monospace; color: #32CD32;">Hi, I'm Antony Mwangi</strong>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;Full+Stack+Developer;Cyber+Security+Specialist" alt="Animated typing roles" />
 </p>
 
 </div>
@@ -40,7 +42,9 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 ## What I Do
 
-<img src="https://via.placeholder.com/600x400/667eea/ffffff?text=Developer+Illustration" alt="Developer illustration" width="600">
+<div align="center">
+  <img src="https://via.placeholder.com/600x400/667eea/ffffff?text=Developer+Illustration" alt="Developer illustration" width="600">
+</div>
 
 | Area | Focus |
 |------|-------|
