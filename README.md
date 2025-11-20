@@ -12,11 +12,11 @@
 
 I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating ssolutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
-* 🔐 **When I'm not coding** - I explore security vulnerabilities and threat landscapes
-* 📊 **Data interests me** - I turn raw numbers into clear insights
-* 💻 **Developing solutions** - From simple scripts to full-stack applications
-* 🌱 **Currently growing** - My full-stack skills at eMobilis
-* 🎯 **My mission** - Building Africa, Leading Africa, For Africans
+* **When I'm not coding** - I explore security vulnerabilities and threat landscapes
+* **Data interests me** - I turn raw numbers into clear insights
+* **Developing solutions** - From simple scripts to full-stack applications
+* **Currently growing** - My full-stack skills at eMobilis
+* **My mission** - Building Africa, Leading Africa, For Africans
 
 ## My Toolkit
 
