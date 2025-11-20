@@ -5,29 +5,40 @@
 <p align="center">
   <strong style="font-size: 28px; font-family: 'Fira Code', monospace; color: #32CD32;">Hi, I'm Antony Mwangi</strong>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;Full+Stack+Developer;Cyber+Security+Specialist" alt="Animated typing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;Economist+in+Making" alt="Animated typing roles" />
 </p>
 
 </div>
 
-## About Me
-
-I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
 </div>
 
-* **When I'm not coding** - I explore security vulnerabilities and threat landscapes
-* **Data interests me** - I turn raw numbers into clear insights
-* **Developing solutions** - From simple scripts to full-stack applications
-* **Currently growing** - My full-stack skills at eMobilis
-* **My mission** - Building Africa, Leading Africa, For Africans
+## 🚀 About Me
 
-## My Toolkit
+I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
-### Security & Data
-<p align="center">
+<div align="center">
+
+### 🎯 Quick Facts
+```text
+💻 When I'm not coding: Exploring security vulnerabilities
+📊 Data interests me: Turning raw numbers into clear insights
+🚀 Developing solutions: From scripts to full-stack applications
+🌱 Currently growing: Full-stack skills at eMobilis
+🎯 My mission: Building Africa, Leading Africa, For Africans
+```
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Security & Data**
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -35,8 +46,8 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Development & DevOps
-<p align="center">
+### **Development & DevOps**
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -44,34 +55,53 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## What I Do
+</div>
 
-| Area | Focus |
-|------|-------|
-| **🔐 Cybersecurity** | Keeping systems safe through smart architecture and testing |
-| **📈 Data & AI** | Creating pipelines that turn data into decisions |
-| **🌐 Full-Stack** | Building applications that people actually use |
-| **⚙️ DevOps** | Making deployment smooth and reliable |
-
-## GitHub Analytics
+## 💼 What I Do
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Antony-Mwangi&theme=vue-dark&hide_border=true&background=45,667eea,764ba2" alt="Coding streak" />
-
-<!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antony-Mwangi&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&bg_color=45,667eea,764ba2" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Mwangi&layout=compact&theme=vue-dark&hide_border=true&bg_color=45,667eea,764ba2" alt="Top languages" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-Mwangi&theme=vue-dark&hide_border=true&bg_color=45,667eea,764ba2&color=ffffff&line=ffffff&point=ffffff" alt="Activity graph" />
+| Domain | Expertise |
+|--------|-----------|
+| **🔐 Cybersecurity** | Smart architecture & security testing |
+| **📈 Data & AI** | Data pipelines & decision systems |
+| **🌐 Full-Stack** | User-centric applications |
+| **⚙️ DevOps** | Smooth deployment & reliability |
+| **📊 Economics** | System & market analysis |
 
 </div>
 
-## Let's Connect
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antony-Mwangi&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&bg_color=45,667eea,764ba2" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Mwangi&layout=compact&theme=vue-dark&hide_border=true&bg_color=45,667eea,764ba2" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Antony-Mwangi&theme=vue-dark&hide_border=true&background=45,667eea,764ba2" alt="Coding streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-Mwangi&theme=vue-dark&hide_border=true&bg_color=45,667eea,764ba2&color=ffffff&line=ffffff&point=ffffff" alt="Activity graph" width="100%" />
+
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<p>
   <a href="mailto:info.csmwangi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -86,15 +116,20 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
   </a>
 </p>
 
+</div>
 
 <div align="center">
 
 **Feel free to explore my work and don't hesitate to reach out!**
 
+<br>
+
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ![Coding](https://raw.githubusercontent.com/ABHI-1920/ABHI-1920/main/coding-freak.gif)
 
-Code. Think. Govern.
+<br>
+
+### **Code. Think. Govern.**
 
 </div>
