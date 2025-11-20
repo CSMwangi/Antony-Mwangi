@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>A passionate computer scientist focused on building practical solutions with the right tools for the job.</i>
+  <i>A computer scientist building secure and reliable data-driven systems.</i>
 </p>
 
 <div align="center">
@@ -18,14 +18,13 @@
 
 A **Computer Scientist** trained through the **Cyber Shujaa Program** where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that actually work in the real world - no over-engineering, just simple, logic, and practical results.
 
-* 🔐 **When I'm not coding** - you'll find me exploring security vulnerabilities and threat landscapes
-* 📊 **Data fascinates me** - turning raw numbers into meaningful insights is like solving puzzles
-* 💻 **Building things** - from simple scripts to full-stack applications
-* 🌱 **Currently growing** - advancing my full-stack skills at eMobilis
-* 🎯 **My mission** - contributing to Africa's digital growth with secure, smart solutions
+* 🔐 **When I'm not coding** - I explore security vulnerabilities and threat landscapes.
+* 📊 **Data interests me** - I turn raw numbers into clear insights.
+* 💻 **Developing solutions** - From simple scripts to full-stack applications.
+* 🌱 **Currently growing** - My full-stack skills at eMobilis.
+* 🎯 **My mission** - Building Africa, Leading Africa, For Africans.
 
 ## My Toolkit
-
 ### Security & Data Magic
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -89,7 +88,7 @@ A **Computer Scientist** trained through the **Cyber Shujaa Program** where I di
 
 <div align="center">
 
-### 💫 "Code should solve problems, not create them"
+###  "Code. Think. Govern."
 
 ⭐️ **Feel free to explore my work and don't hesitate to reach out!**
 
