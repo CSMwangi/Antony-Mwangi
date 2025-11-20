@@ -1,4 +1,3 @@
-```markdown
 # Antony Mwangi
 
 **Software Engineer | Data & AI Analyst | Ethical Hacker**
