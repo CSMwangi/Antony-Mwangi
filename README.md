@@ -92,6 +92,6 @@ A **Computer Scientist** trained through the **Cyber Shujaa Program** where I di
 
 ⭐️ **Feel free to explore my work and don't hesitate to reach out!**
 
-![Snake animation](https://github.com/Antony-Mwangi/Antony-Mwangi/blob/output/github-snake.svg)
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
