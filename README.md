@@ -16,13 +16,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
 <div align="center">
 
-### 🎯 Quick Facts
+### Quick Facts
 
 | Aspect | Focus |
 |--------|-------|
@@ -34,7 +34,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 </div>
 
-## 💼 What I Do
+## What I Do
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 </div>
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
